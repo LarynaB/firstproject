@@ -1,0 +1,6 @@
+/Users/twilightreign/Projects/C#/firstproject/firstproject/bin/Debug/firstproject.exe
+/Users/twilightreign/Projects/C#/firstproject/firstproject/bin/Debug/firstproject.pdb
+/Users/twilightreign/Projects/C#/firstproject/firstproject/obj/Debug/firstproject.csproj.AssemblyReference.cache
+/Users/twilightreign/Projects/C#/firstproject/firstproject/obj/Debug/firstproject.csproj.CoreCompileInputs.cache
+/Users/twilightreign/Projects/C#/firstproject/firstproject/obj/Debug/firstproject.exe
+/Users/twilightreign/Projects/C#/firstproject/firstproject/obj/Debug/firstproject.pdb
